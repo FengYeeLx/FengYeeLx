@@ -10,6 +10,10 @@
 ### Connect With Me
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-FengYeeLx-pink)](https://space.bilibili.com/259185875)
+[![Wechat-FYe](https://img.shields.io/badge/Wechat-FengYeeLx-pink)](http://tuchuang.fengyeelx.top/Blog_Picture/PixPin_2024-10-10_17-31-54.png)
+[![Email-QQ](https://img.shields.io/badge/Email-QQ-blue)](mailto:fengyeelx@qq.com)
+[![Email-FYe](https://img.shields.io/badge/Email-FY-orange)](mailto:fengyeelx@fengyeelx.top)
+
 
 
 ### Coding with Passion
