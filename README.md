@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/FengYeeLx/count.svg)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FengYeeLx&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FengYeeLx&show_icons=true&theme=tokyonight)](https://github.com/FengYeeLx?tab=repositories)
 
 
 ### Connect With Me
