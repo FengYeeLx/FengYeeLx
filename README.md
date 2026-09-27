@@ -2,7 +2,7 @@
 
 # Hello, FengYeeLxQwQ! 👋
 
-![Visitor Count](https://profile-counter.glitch.me/FengYeeLx/count.svg)
+![visitors](https://laobi.icu/badge?page_id=username.visitor-badge&left_text=visitors&logo=github&query_only=true&height=25)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FengYeeLx&show_icons=true&theme=tokyonight)](https://github.com/FengYeeLx?tab=repositories)
 
