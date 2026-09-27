@@ -4,9 +4,6 @@
 
 ![visitors](https://laobi.icu/badge?page_id=username.visitor-badge&left_text=visitors&logo=github&query_only=true&height=25)
 
-[![GitHub Stats](https://shion.dev)](https://github.com/FengYeeLx?tab=repositories)
-
-
 ### Connect With Me
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-FengYeeLx-pink)](https://space.bilibili.com/259185875)
