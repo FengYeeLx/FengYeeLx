@@ -4,7 +4,7 @@
 
 ![visitors](https://laobi.icu/badge?page_id=username.visitor-badge&left_text=visitors&logo=github&query_only=true&height=25)
 
-[![GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=FengYeeLx&show_icons=true&theme=tokyonight)](https://github.com/FengYeeLx?tab=repositories)
+[![GitHub Stats](https://shion.dev)](https://github.com/FengYeeLx?tab=repositories)
 
 
 ### Connect With Me
